@@ -6,7 +6,11 @@
 
 💞️ I’m looking to collaborate on any kind of project. I'm looking for experience in the area and continuously developing my skills.
 
-📫 If you want to reach out, here's my work email: `pedro.manuel.peres.batista@gmail.com`
+📫 If you want to reach out:
+  - **Email:** `pedro.manuel.peres.batista@gmail.com`
+  - **[LinkedIn profile](https://www.linkedin.com/in/pedro-batista-98b9971b3/):** `linkedin.com/in/pedro-batista-98b9971b3`
+
+📝 Developer portfolio and CV in development ...
 
 <!---
 pedro742k2/pedro742k2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
