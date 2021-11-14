@@ -1,6 +1,6 @@
-👋 Greetings visitor, I’m Pedro Batista!
+👋 Greetings, visitor. I’m Pedro Batista!
 
-👀 I’m interested in learning new things every day, particularly in computer science, math and electronics.
+👀 I’m interested in learning new things every day, particularly in computer science, math and electronics. I love applying my knowledge in the field of engineering, finding new solutions to given issues.
 
 🌱 I’m currently perfecting my skills on open-source projects.
 
