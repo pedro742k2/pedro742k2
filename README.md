@@ -7,7 +7,7 @@
 💞️ I’m looking to collaborate on any kind of project. I'm looking for experience in the area and continuously developing my skills.
 
 📫 If you want to reach out:
-  - **Email:** `pedro.manuel.peres.batista@gmail.com`
+  - **Email:** `pmpb742k2@gmail.com`
   - **[LinkedIn profile](https://www.linkedin.com/in/pedro-batista-98b9971b3/):** `linkedin.com/in/pedro-batista-98b9971b3`
 
 📝 Developer portfolio and CV in development ...
