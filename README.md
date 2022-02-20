@@ -4,7 +4,7 @@
 
 ---
 
-👀 I’m interested in learning new things every day, particularly in computer science, math and electronics. I love applying my knowledge in the field of engineering, finding new solutions to given issues.
+👀 I’m interested in learning new things every day, particularly in computer science, maths and electronics. I love applying my knowledge in the field of engineering, finding new solutions to given issues in electronics and software.
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-💞️ I’m looking to collaborate on almost any kind of project. I'm looking for experience in the area and continuously developing my skills.
+💻 I’m looking to collaborate on almost any kind of project. I'm looking for experience in the area and continuously developing my skills.
 
 ---
 
